@@ -1,0 +1,12 @@
+code --install-extension jeroen-meijer.pubspec-assist
+code --install-extension Dart-Code.flutter
+code --install-extension alexisvt.flutter-snippets
+code --install-extension Nash.awesome-flutter-snippets
+code --install-extension gornivv.vscode-flutter-files
+code --install-extension marcelovelasquez.flutter-tree
+code --install-extension circlecodesolution.ccs-flutter-color
+code --install-extension localizely.flutter-intl
+code --install-extension gmlewis-vscode.flutter-stylizer
+code --install-extension Dart-Code.dart-code
+code --install-extension usernamehw.errorlens
+code --install-extension sdras.night-owl
